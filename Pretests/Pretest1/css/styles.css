@@ -1,0 +1,12 @@
+/*
+    This is the associated CSS file.
+ */
+body {
+  background-color: antiquewhite; 
+  color: brown;
+  font-family: Garamond, Bodoni, Rockwell, serif;
+}
+
+#wrapper {
+  margin: auto;
+}
